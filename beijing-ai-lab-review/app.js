@@ -1,7 +1,7 @@
 'use strict';
 const pages = [
   {file:'1', label:'会议主海报', title:'会议主旨总览', speaker:'实践交流会 · 北京站', short:'会议主旨总览'},
-  {file:'1-1-footer-20261107-v2', label:'专题 01', title:'重拾 AI+：概念定义与实践价值', speaker:'田刚｜华为', short:'AI+ 概念与实践价值'},
+  {file:'1-1-footer-20261107-v3', label:'专题 01', title:'重拾 AI+：概念定义与实践价值', speaker:'田刚｜华为', short:'AI+ 概念与实践价值'},
   {file:'1-2', label:'专题 02', title:'AI 赋能尿液检验', speaker:'王榕榕｜北京协和医院', short:'尿液检验的 AI 应用'},
   {file:'1-3', label:'专题 03', title:'AI+血液常规：血液分析与精准诊断', speaker:'沈军｜中日友好医院检验科', short:'血液分析与精准诊断'},
   {file:'1-4', label:'专题 04', title:'从血常规鉴别到复杂病例分流', speaker:'林杨泽｜优利特', short:'地中海贫血筛查研究'},
