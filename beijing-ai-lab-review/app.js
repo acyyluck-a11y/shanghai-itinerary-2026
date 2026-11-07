@@ -1,12 +1,12 @@
 'use strict';
 const pages = [
   {file:'1', label:'会议主海报', title:'会议主旨总览', speaker:'实践交流会 · 北京站', short:'会议主旨总览'},
-  {file:'1-1-footer-20261107', label:'专题 01', title:'重拾 AI+：概念定义与实践价值', speaker:'田刚｜华为', short:'AI+ 概念与实践价值'},
+  {file:'1-1-footer-20261107-v2', label:'专题 01', title:'重拾 AI+：概念定义与实践价值', speaker:'田刚｜华为', short:'AI+ 概念与实践价值'},
   {file:'1-2', label:'专题 02', title:'AI 赋能尿液检验', speaker:'王榕榕｜北京协和医院', short:'尿液检验的 AI 应用'},
   {file:'1-3', label:'专题 03', title:'AI+血液常规：血液分析与精准诊断', speaker:'沈军｜中日友好医院检验科', short:'血液分析与精准诊断'},
   {file:'1-4', label:'专题 04', title:'从血常规鉴别到复杂病例分流', speaker:'林杨泽｜优利特', short:'地中海贫血筛查研究'},
   {file:'1-5', label:'专题 05', title:'AI+科室运营', speaker:'马越云｜空军特色医学中心', short:'科室运营与管理升级'},
-  {file:'1-6', label:'专题 06', title:'数智驱动智能到家检验实践', speaker:'王雅杰｜首都医科大学附属北京地坛医院检验科', short:'智能到家检验实践'},
+  {file:'1-6-layout-20261107', label:'专题 06', title:'数智驱动智能到家检验实践', speaker:'王雅杰｜首都医科大学附属北京地坛医院检验科', short:'智能到家检验实践'},
   {file:'1-7', label:'专题 07', title:'AI 辅助心力衰竭早筛与风险预警', speaker:'袁慧｜首都医科大学附属北京安贞医院', short:'心力衰竭早筛与预警'},
   {file:'1-8', label:'专题 08 · 圆桌讨论', title:'从智慧检测到精益管理', speaker:'主持：姜婷', short:'圆桌：检验工作模式升级'}
 ];
